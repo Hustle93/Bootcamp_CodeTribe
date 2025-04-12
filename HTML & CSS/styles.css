@@ -1,0 +1,30 @@
+body {
+    background-image: url(./Images/background3.jpg);
+}
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: aliceblue;
+    size: 150px;
+    text-decoration: uppercase;
+}
+a:hover, a:active {
+    background-color: black;
+}
+p {
+    color: aliceblue;
+    size: 150px;
+}
+h1 {
+    color: rgb(20, 9, 90);
+}
+footer {
+    color: rgb(20, 9, 90);
+    font-weight: bolder;
+}
+footer, td {
+    align-items: center;
+}
+ul {
+    align-content: center;
+}
